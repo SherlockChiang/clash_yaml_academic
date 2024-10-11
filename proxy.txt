@@ -1,0 +1,26 @@
+# NAME: Academic
+# AUTHOR: Chiang
+# REPO: https://github.com/SherlockChiang/clash_yaml_academic
+# UPDATED: 2024-10-11 14:17
+
+payload:
+  - DOMAIN,cell.com
+  - DOMAIN,nature.com
+  - DOMAIN,optica.org
+  - DOMAIN,springer.com
+  - DOMAIN,ieee.org
+  - DOMAIN,science.org
+  - DOMAIN,sciencedirect.com
+  - DOMAIN,apa.org
+  - DOMAIN,sciencedirectassets.com
+  - DOMAIN,sagepub.com
+  - DOMAIN,wiley.com
+  - DOMAIN,cnki.net
+  - DOMAIN,pubmed.ncbi.nlm.nih.gov
+  - DOMAIN,webofscience.com
+  - DOMAIN,hathitrust.org
+  - DOMAIN,proquest.com
+  - DOMAIN,annualreviews.org
+  - DOMAIN,plos.org
+  - DOMAIN,nlm.nih.gov
+  - DOMAIN,ingentaconnect.com
