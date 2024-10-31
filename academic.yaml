@@ -5,23 +5,25 @@
 # Tell me if you need other sci-websites
 
 payload:
-  - DOMAIN-KEYWORD,cell.com
-  - DOMAIN-KEYWORD,nature.com
-  - DOMAIN-KEYWORD,optica.org
-  - DOMAIN-KEYWORD,springer.com
-  - DOMAIN-KEYWORD,ieee.org
-  - DOMAIN-KEYWORD,science.org
-  - DOMAIN-KEYWORD,sciencedirect.com
-  - DOMAIN-KEYWORD,apa.org
-  - DOMAIN-KEYWORD,sciencedirectassets.com
-  - DOMAIN-KEYWORD,sagepub.com
-  - DOMAIN-KEYWORD,wiley.com
-  - DOMAIN-KEYWORD,cnki.net
-  - DOMAIN-KEYWORD,pubmed.ncbi.nlm.nih.gov
-  - DOMAIN-KEYWORD,webofscience.com
-  - DOMAIN-KEYWORD,hathitrust.org
-  - DOMAIN-KEYWORD,proquest.com
-  - DOMAIN-KEYWORD,annualreviews.org
-  - DOMAIN-KEYWORD,plos.org
-  - DOMAIN-KEYWORD,nlm.nih.gov
-  - DOMAIN-KEYWORD,ingentaconnect.com
+  - DOMAIN-SUFFIX,bnu.edu.cn
+  - DOMAIN-SUFFIX,cell.com
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,science.org
+  - DOMAIN-SUFFIX,optica.org
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,science.org
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,apa.org
+  - DOMAIN-SUFFIX,sciencedirectassets.com
+  - DOMAIN-SUFFIX,sagepub.com
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
+  - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,hathitrust.org
+  - DOMAIN-SUFFIX,proquest.com
+  - DOMAIN-SUFFIX,annualreviews.org
+  - DOMAIN-SUFFIX,plos.org
+  - DOMAIN-SUFFIX,nlm.nih.gov
+  - DOMAIN-SUFFIX,ingentaconnect.com
