@@ -1,0 +1,27 @@
+# NAME: Academic
+# AUTHOR: Chiang
+# REPO: https://github.com/SherlockChiang/direct2academic
+# UPDATED: 2024-10-31 18:57:00
+# Tell me if you need other sci-websites
+
+payload:
+  - DOMAIN-KEYWORD,cell.com
+  - DOMAIN-KEYWORD,nature.com
+  - DOMAIN-KEYWORD,optica.org
+  - DOMAIN-KEYWORD,springer.com
+  - DOMAIN-KEYWORD,ieee.org
+  - DOMAIN-KEYWORD,science.org
+  - DOMAIN-KEYWORD,sciencedirect.com
+  - DOMAIN-KEYWORD,apa.org
+  - DOMAIN-KEYWORD,sciencedirectassets.com
+  - DOMAIN-KEYWORD,sagepub.com
+  - DOMAIN-KEYWORD,wiley.com
+  - DOMAIN-KEYWORD,cnki.net
+  - DOMAIN-KEYWORD,pubmed.ncbi.nlm.nih.gov
+  - DOMAIN-KEYWORD,webofscience.com
+  - DOMAIN-KEYWORD,hathitrust.org
+  - DOMAIN-KEYWORD,proquest.com
+  - DOMAIN-KEYWORD,annualreviews.org
+  - DOMAIN-KEYWORD,plos.org
+  - DOMAIN-KEYWORD,nlm.nih.gov
+  - DOMAIN-KEYWORD,ingentaconnect.com
