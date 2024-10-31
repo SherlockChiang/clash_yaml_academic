@@ -14,6 +14,6 @@ rule-providers:
     interval: 86400
 ```
 ```
-rules
+rules:
   - RULE-SET,Academic,🌎 全球直连
 ```
