@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,apa.org
   - DOMAIN-SUFFIX,sciencedirectassets.com
+  - DOMAIN-SUFFIX,researchgate.netv
   - DOMAIN-SUFFIX,sagepub.com
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,cnki.net
