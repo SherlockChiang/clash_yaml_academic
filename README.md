@@ -15,5 +15,6 @@ rule-providers:
 ```
 ```
 rules:
-  - RULE-SET,Academic,🌎 全球直连
+  - RULE-SET,Academic,直连
 ```
+*如果用不了那么八成是校园网或者gfw又把直连墙了。唉，卡脖子。*
